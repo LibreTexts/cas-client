@@ -1,7 +1,7 @@
 {
-  "name": "http-cas-client",
-  "version": "0.4.3",
-  "description": "A complete implement of CAS Client middleware for Node.js, support CAS 1.0, 2.0+, 3.0+ protocol.",
+  "name": "@libretexts/cas-client",
+  "version": "0.4.4",
+  "description": "A LibreTexts fork of the original http-cas-client package that is no longer actively maintained. A complete implement of CAS Client middleware for Node.js, support CAS 1.0, 2.0+, 3.0+ protocol.",
   "main": "index.js",
   "directories": {
     "test": "test"
@@ -29,7 +29,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lemonce/cas-client.git"
+    "url": "git+https://github.com/LibreTexts/cas-client.git"
   },
   "keywords": [
     "cas",
@@ -43,10 +43,10 @@
     "http",
     "express"
   ],
-  "author": "ChaosLee",
+  "author": "LibreTexts, Inc.",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/lemonce/cas-client/issues"
+    "url": "https://github.com/LibreTexts/cas-client/issues"
   },
   "files": [
     "src",
@@ -54,5 +54,5 @@
     "index.js",
     "index.d.ts"
   ],
-  "homepage": "https://github.com/lemonce/cas-client#readme"
+  "homepage": "https://github.com/LibreTexts/cas-client#readme"
 }
