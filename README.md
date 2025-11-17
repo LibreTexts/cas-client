@@ -1,8 +1,10 @@
-# http-cas-client
-[![Build Status](https://img.shields.io/travis/lemonce/cas-client.svg?style=flat-square)](https://www.npmjs.com/package/http-cas-client)
-[![NPM Downloads](https://img.shields.io/npm/dm/http-cas-client.svg?style=flat-square)](https://www.npmjs.com/package/http-cas-client)
-[![NPM Version](https://img.shields.io/npm/v/http-cas-client.svg?style=flat-square)](https://www.npmjs.com/package/http-cas-client)
+# cas-client
+[![NPM Downloads](https://img.shields.io/npm/dm/http-cas-client.svg?style=flat-square)](https://www.npmjs.com/package/@libretexts/cas-client)
+[![NPM Version](https://img.shields.io/npm/v/http-cas-client.svg?style=flat-square)](https://www.npmjs.com/package/@libretexts/cas-client)
 
+A fork of the inactive [http-cas-client](https://www.npmjs.com/package/http-cas-client) package at https://github.com/lemonce/cas-client 
+
+-------
 A complete implement of CAS Client middleware for Node.js, support CAS 1.0, 2.0+, 3.0+ protocol.
 
 CAS(Central Authentication Service) is a single-sign-on / single-sign-off protocol for the web.
